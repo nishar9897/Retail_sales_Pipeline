@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Email,Phone,City,Country
+1.0,Samantha Ferrell,tproctor@yahoo.com,(824)288-2875,Dallas,Germany
+2.0,Nichole Atkins,,None,Los Angeles,Brazil
+3.0,Edward Stone,micheal77@koch.com,(722)734-2706x59033,Chicago,
+4.0,Alex Coleman,shortlisa@smith-webb.net,None,San Francisco,Canada
+5.0,Margaret Turner,foxgabriella@chung.biz,+1-452-312-0028x222,Boston,Australia
+6.0,Ashley Maynard,emiles@hotmail.com,321.397.4886x76907,New York,India
+7.0,Lisa Garcia,jacob53@hotmail.com,+1-958-477-0823x6138,Seattle,India
+8.0,David Hoffman,brennanmatthew@smith.org,571-634-6936x2969,,Brazil
+9.0,Steven Baldwin,jacksontroy@wilson.com,700.413.3713,Houston,Japan
+10.0,Andre Gould,heatheranderson@yahoo.com,1394268734,New York,UK
+11.0,Stephanie Ward,masonjustin@harper.com,136-181-5884x2597,Chicago,
+12.0,Anna Johnson,james02@gmail.com,+1-226-828-8841,New York,Canada
+13.0,Mr. Scott King,clarkejames@lewis.com,539-670-3499x4385,Boston,Brazil
+14.0,Christopher Garrett,william82@castillo.com,(642)437-1505,San Francisco,Canada
+15.0,Stephanie Pena,sarahwhite@hotmail.com,+1-199-908-5492x33828,Dallas,Brazil
+16.0,Jennifer Butler,,None,Boston,
+17.0,Russell Lopez,angelaadams@steele.info,001-200-776-2415x92948,Dallas,Australia
+18.0,Linda Smith,christopherbaxter@gmail.com,+1-806-929-9855x45578,New York,Germany
+19.0,Benjamin Ellis,patrickmarsh@davis.com,001-564-081-9634x314,Los Angeles,Japan
+20.0,Deborah Gordon,xgardner@yahoo.com,(431)860-3082x1071,Chicago,USA
+21.0,Matthew Sharp,nelsonmatthew@benjamin.com,None,San Francisco,Australia
+22.0,Pamela Austin,,(101)966-2829x9139,Dallas,Brazil
+23.0,Kimberly Kim,ortiztimothy@yahoo.com,(120)427-2118,New York,Canada
+24.0,Timothy Klein,moorekaylee@mcdonald.net,001-658-631-7489,Dallas,Canada
+25.0,Tina Hines,mary01@yahoo.com,(156)713-1830x2816,Seattle,Australia
+26.0,Mary Bonilla,tarahutchinson@carr.com,None,Los Angeles,Brazil
+27.0,Cory Peterson,susanyoung@hotmail.com,(679)046-6052x197,Los Angeles,France
+28.0,Christopher Campbell,millerteresa@gmail.com,+1-701-036-2678x446,Boston,
+29.0,Erica Smith,april12@perkins-diaz.net,+1-047-303-5886,New York,Australia
+30.0,Tiffany Mcneil,moodypaul@gmail.com,302-766-2943,Houston,Australia
+31.0,Paul Kim,nicole92@hotmail.com,None,,
+32.0,Joseph Hensley,guzmanmichael@gmail.com,+1-021-112-1639x1419,San Francisco,UK
+33.0,Greg Huffman,kellycopeland@knight-stark.org,None,New York,India
+34.0,Adam Howard,youngann@hotmail.com,(779)511-7020x3499,Los Angeles,
+35.0,Taylor Carpenter,bgilbert@yahoo.com,(672)855-6610x007,Houston,
+36.0,Mark Perkins,ethomas@gmail.com,451.922.0358,Los Angeles,
+37.0,Cassandra Robinson,beckyrhodes@yahoo.com,None,New York,Canada
+38.0,Christina Patel,stephaniesullivan@yahoo.com,471-004-4488x0550,Seattle,India
+39.0,Donald Hawkins,lgreene@hotmail.com,None,Los Angeles,
+40.0,Jeffrey Wilson,,None,New York,Brazil
+41.0,Jessica Pugh,robyn30@gmail.com,393.258.9848,Dallas,India
+42.0,Daniel Page,prhodes@abbott.com,(082)561-5833x056,Los Angeles,France
+43.0,Richard Conner,boydricky@williams-mccoy.com,285-454-9079x543,,Canada
+44.0,Cassandra Peck,waltondavid@larson.com,048.868.2128x160,Boston,UK
+45.0,Christopher Diaz,nhutchinson@hotmail.com,989.126.1772x198,Dallas,
+46.0,Tara Rivera,brandonallen@mullins-bell.com,607.001.8273,Seattle,Canada
+47.0,Brenda Lloyd,fwalsh@williams.com,+1-546-844-4965x10601,Boston,
+48.0,Sherry Thomas,apriljohnson@hotmail.com,(734)596-3522x1967,Los Angeles,Brazil
+49.0,Stephen Dean,greenmary@valentine.net,(393)244-6558x403,,
+50.0,Brian Thompson,kara05@gmail.com,None,Seattle,Canada
+51.0,Elizabeth Harding,anthony65@hotmail.com,001-249-251-3993,San Francisco,Germany
+52.0,Anthony Adams,hallcassandra@floyd.biz,042.405.1739,Boston,USA
+53.0,Erin Anderson,leecrystal@yahoo.com,None,Chicago,Japan
+54.0,Valerie Austin,smithkristina@sullivan.com,+1-064-172-2689x2878,New York,Japan
+55.0,Breanna Webb,lwoods@baxter.net,001-059-114-9844x244,Houston,Brazil
+56.0,Jon Cabrera,garciaerica@romero-jacobs.net,(082)601-9861x95628,Los Angeles,Germany
+57.0,Tabitha Fletcher,ballardronald@mendoza.org,None,Chicago,Brazil
+58.0,Michael Golden,leonardjohnson@hotmail.com,(219)334-1779,,Canada
+59.0,Michelle Mclaughlin,megan84@gmail.com,4892080716,Boston,Japan
+60.0,Erika Davis,,367.970.1227x938,San Francisco,Germany
+61.0,Elizabeth Rhodes,thompsongail@martin.com,001-094-907-0832x73202,Dallas,Canada
+62.0,Brian Lee,brittany28@jones.biz,+1-990-077-0093x64576,,Australia
+63.0,Catherine Macdonald,cbaker@hotmail.com,None,Chicago,USA
+64.0,Jose Smith,ssilva@hotmail.com,None,San Francisco,UK
+65.0,Patricia Smith,olsentamara@yahoo.com,(097)398-8294x66819,Houston,USA
+66.0,Ruth Davenport,jason54@richardson-johnson.com,466.301.9118x6243,,Brazil
+67.0,Charles Green,erichood@hotmail.com,(029)810-6297x2905,Seattle,Germany
+68.0,James Smith,carlosthomas@brooks.com,483.949.4639,Boston,Brazil
+69.0,Troy Hunter,,0213580528,San Francisco,USA
+70.0,Glenn Casey,brandyrichardson@schmidt.net,None,Chicago,Canada
+71.0,Lisa May,thomas30@gmail.com,None,New York,Germany
+72.0,Mr. Harry Burke MD,nathan92@yahoo.com,None,Los Angeles,USA
+73.0,Michael Fleming,elizabeth09@solomon.com,(449)262-4124x881,New York,Brazil
+74.0,Lisa Kelly,sarahmccullough@gmail.com,(433)596-0863x929,,UK
+75.0,Stephen Richardson,vreyes@thompson-nelson.net,+1-594-269-5408x85669,Los Angeles,Germany
+76.0,Thomas Lewis,lanenorman@yahoo.com,(832)607-3820x661,,UK
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+77.0,Tiffany Thompson,longeddie@perry.com,050-581-3525x2196,San Francisco,France
+78.0,Jeffrey Sexton,griffinalicia@tucker-massey.com,None,Miami,India
+79.0,John Freeman,andrewssherri@gmail.com,047-140-9907,Los Angeles,France
+80.0,Samantha Silva DVM,david95@foster-wilson.com,None,Los Angeles,India
+56.0,Jon Cabrera,garciaerica@romero-jacobs.net,(082)601-9861x95628,Los Angeles,Germany
+21.0,Matthew Sharp,nelsonmatthew@benjamin.com,None,San Francisco,Australia
+50.0,Brian Thompson,kara05@gmail.com,None,Seattle,Canada
+69.0,Troy Hunter,,0213580528,San Francisco,USA
+75.0,Stephen Richardson,vreyes@thompson-nelson.net,+1-594-269-5408x85669,Los Angeles,Germany
+14.0,Christopher Garrett,william82@castillo.com,(642)437-1505,San Francisco,Canada
+61.0,Elizabeth Rhodes,thompsongail@martin.com,001-094-907-0832x73202,Dallas,Canada
+27.0,Cory Peterson,susanyoung@hotmail.com,(679)046-6052x197,Los Angeles,France
+67.0,Charles Green,erichood@hotmail.com,(029)810-6297x2905,Seattle,Germany
+31.0,Paul Kim,nicole92@hotmail.com,None,,
