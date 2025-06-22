@@ -9,11 +9,12 @@ This project demonstrates an end-to-end retail sales data pipeline implemented o
 - Public API (JSON) – Sales
 - On-Prem PostgreSQL – Additional raw tables (if required)
 
-## Data Processing
+## Processing Flow
 
-- Used Apache Beam with Dataflow to read and clean data
-- Applied transformations such as null removal, schema standardization, and ingestion timestamping
-- Cleaned files are stored in the Silver Layer (GCS) in JSON format
+1. **Data Ingestion**: Data is collected from GCS, API, and on-prem PostgreSQL
+2. **Transformation**: Cleaned using Apache Beam (Dataflow) jobs, handling schema normalization and data validation
+3. **Storage**: Cleaned data is stored in GCS Silver Layer as JSON files
+4. **Loading**: Transformed data is loaded into a Cloud SQL PostgreSQL instance
 
 ## Automation Logic
 
