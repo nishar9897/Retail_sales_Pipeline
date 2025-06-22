@@ -15,17 +15,6 @@ This project demonstrates an end-to-end retail sales data pipeline implemented o
 - Applied transformations such as null removal, schema standardization, and ingestion timestamping
 - Cleaned files are stored in the Silver Layer (GCS) in JSON format
 
-## Challenges Faced
-
-- Product and sales record mismatch due to invalid foreign key references
-- Phone numbers in inconsistent formats (e.g., +1 prefix) while schema expected exactly 10 digits
-- Customer names exceeding defined character limits
-- Null or malformed fields causing pipeline execution issues
-- Required addition of ingestion_time field during transformation
-- Initially hardcoded logic had to be converted into a dynamic and flexible structure
-- PostgreSQL schema mismatches while inserting cleaned data
-- Cloud SQL connection timeouts during load operation
-
 ## Automation Logic
 
 To transition from a batch-tested manual setup to a fully automated pipeline, the following GCP services were utilized:
