@@ -1,4 +1,4 @@
-## 📌 Challenges Faced During Data Cleaning & Loading
+## Challenges Faced During Data Cleaning & Loading
 
 - **Name Length Limit**  
   Names longer than 10 characters caused schema issues – trimmed them before load.
