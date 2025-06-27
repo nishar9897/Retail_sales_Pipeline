@@ -39,7 +39,7 @@ Each challenge contributed to improving the robustness of the ETL process and be
 
 ---
 
-##Findings to build secure pipeline
+## Findings to build secure pipeline
 ## 1. Reading Password from GCP Secret Manager (Project: `de_practices`)
 
 To securely manage sensitive information like database passwords, we used **Google Cloud Secret Manager**.
